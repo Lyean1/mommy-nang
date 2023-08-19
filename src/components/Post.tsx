@@ -5,3 +5,5 @@ const Post: React.FC = () => {
         </div>
     )
 }
+
+export
