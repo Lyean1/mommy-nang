@@ -1,1 +1,3 @@
-const Post: React.FC
+const Post: React.FC = () => {
+    
+}
