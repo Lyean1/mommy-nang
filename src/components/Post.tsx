@@ -1,7 +1,7 @@
 const Post: React.FC = () => {
     return (
-        <div>
-            
+        <div className="Post">
+
         </div>
     )
 }
