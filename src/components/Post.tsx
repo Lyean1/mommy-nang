@@ -1,1 +1,1 @@
-const Post
+const Post: React.FC
