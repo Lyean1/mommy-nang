@@ -6,4 +6,4 @@ const Contact: React.FC = () => {
     )
 }
 
-export default
+export default Contact
