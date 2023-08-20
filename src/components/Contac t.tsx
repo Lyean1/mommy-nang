@@ -5,3 +5,5 @@ const Contact: React.FC = () => {
         </div>
     )
 }
+
+export
