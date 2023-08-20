@@ -1,1 +1,1 @@
-const Contact:
+const Contact: React.FC 
