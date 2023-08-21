@@ -6,4 +6,4 @@ const Product : React.FC = () => {
     )
 }
 
-export
+export default
