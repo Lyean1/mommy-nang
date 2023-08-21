@@ -5,3 +5,5 @@ const Product : React.FC = () => {
         </div>
     )
 }
+
+export
