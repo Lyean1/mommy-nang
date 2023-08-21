@@ -1,1 +1,3 @@
-const Product : React.FC
+const Product : React.FC = () => {
+    
+}
