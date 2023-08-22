@@ -6,4 +6,4 @@ const Category: React.FC = () => {
     )
 }
 
-export
+export default
