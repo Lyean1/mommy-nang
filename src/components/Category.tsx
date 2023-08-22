@@ -5,3 +5,5 @@ const Category: React.FC = () => {
         </div>
     )
 }
+
+export
