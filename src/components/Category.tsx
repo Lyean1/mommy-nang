@@ -1,1 +1,1 @@
-const Category
+const Category: React.FC
