@@ -1,1 +1,3 @@
-const Category: React.FC
+const Category: React.FC = () => {
+    
+}
