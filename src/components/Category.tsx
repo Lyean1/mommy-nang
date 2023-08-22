@@ -1,7 +1,7 @@
 const Category: React.FC = () => {
     return (
-        <div>
-            
+        <div className="category">
+
         </div>
     )
 }
