@@ -1,1 +1,1 @@
-const Searchbar
+const Searchbar: React.FC
