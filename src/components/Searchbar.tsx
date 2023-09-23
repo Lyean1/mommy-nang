@@ -5,3 +5,5 @@ const Searchbar: React.FC = () => {
         </div>
     )
 }
+
+export
