@@ -6,4 +6,4 @@ const Searchbar: React.FC = () => {
     )
 }
 
-export default
+export default Searchbar
