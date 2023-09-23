@@ -1,7 +1,7 @@
 const Searchbar: React.FC = () => {
     return (
-        <div>
-            
+        <div className="searchbar">
+
         </div>
     )
 }
