@@ -1,15 +1,14 @@
-import { useState } from "react"
+import React, { useState } from "react";
 
-const Shoppingcart: React.FC = () => {
-    const [products, setproducts] = useState<Type>(initialValue);
-
-    return (
-        <div className="shoppingcart">
-            <div>
-
-            </div>
-        </div>
-    )
+interface ShoppingCartState {
+  items: Array<{
+    id: number;
+    name: string;
+    quantity: number;
+  }>;
 }
 
-export default Shoppingcart
+const ShoppingCart: React.FC = () => {
+  const [state, setState] = useState<ShoppingCartState>({
+    items: [],
+  });
