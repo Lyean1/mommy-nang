@@ -5,3 +5,5 @@ const Shoppingcart: React.FC = () => {
         </div>
     )
 }
+
+export default Shoppingcart
